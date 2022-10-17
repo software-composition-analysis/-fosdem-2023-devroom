@@ -16,9 +16,9 @@ If you want to make your talk a bit more in-theme with the conference at large, 
 If you have any issues, please contact dependency-devroom-manager at fosdem.org. You can also send us a notification of your submission there.
 
 **Important dates:**
-- December 27th 2021: Deadline for submission of proposals
-- December 28th 2021: You receive a notification that your presentation has been accepted or not
-- December 31th 2021: Developer rooms publish complete schedules
+- December 1th 2022: Deadline for submission of proposals
+- December 10th 2022: You receive a notification that your presentation has been accepted or not
+- December 15th 2022: Developer rooms publish complete schedules
 - First two weeks of January: Period for recording and uploading talks by speakers
 
 ## Some submission ideas:
@@ -57,7 +57,7 @@ If you have any issues, please contact dependency-devroom-manager at fosdem.org.
   - Automating policies
   - SCA combined with other techniques, such as static analysis
 
-If you have some suggestions, if you are not sure you talk fit in the devroom theme feel free to post in the [discussions](https://github.com/software-composition-analysis/fosdem-2022-devroom/discussions) section.
+If you have some suggestions, if you are not sure you talk fit in the devroom theme feel free to post in the [discussions](https://github.com/software-composition-analysis/fosdem-2023-devroom/discussions) section.
 
 ## Talks format
 
@@ -69,8 +69,6 @@ Each session will group three presentations related to the same general topic fo
 
 Each session will start by a 45 minutes segment with **three short presentations**, about 15 minutes each maximum. 
 
-These presentations must be **pre-recorded** ahead of time and uploaded three weeks before FOSDEM i.e., by January 14th 2022.
-
 Then, in the second part of the session, the three speakers of this session will join for a 30 minutes **live online panel** on Jitsi for live Q&A and panel discussion moderated by one of the volunteer organizers of this devroom.
 
 With this combination of shorter recorded talks and longer live Q&A panel discussions, we expect a more interactive and lively virtual devroom event.
@@ -79,7 +77,7 @@ Once your presentation is accepted, we will be there to help you to produce the 
     
 ## How to submit?
 
-Please submit your proposals at https://penta.fosdem.org/submission/FOSDEM22 Deadline: **December 27th 2021**.
+Please submit your proposals at https://penta.fosdem.org/submission/FOSDEM23 Deadline: **December 27th 2021**.
 
 If you already have a Pentabarf account (for example as a result of having submitted a proposal in the past), make sure you use it to log in and submit your proposal. Do not create a new account if you already have one. Please provide a bit of information about yourself under Person -> Description -> Abstract. When you submit your proposal (creating an "Event" in Pentabarf), make sure you choose "Software composition and dependency management devroom" in the track drop-down menu. Otherwise your proposal might go unnoticed. Fill in at least a title and abstract for the proposed talk (note that abstract and full description will be concatenated).
 
