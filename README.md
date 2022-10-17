@@ -1,4 +1,4 @@
-# FOSDEM 2022
+# FOSDEM 2023
 
 ## Software composition and dependency management devroom
 
